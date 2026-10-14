@@ -1,2 +1,2 @@
 # effectcraft-releases
-Mak Effect — downloads (installers only)
+My Motion — downloads (installers only)
